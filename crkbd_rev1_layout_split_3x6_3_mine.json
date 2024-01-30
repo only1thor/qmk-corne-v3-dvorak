@@ -45,10 +45,10 @@
       "KC_RCTL",
       "KC_LGUI",
       "MO(1)",
-      "KC_SPC",
+      "LSFT_T(KC_SPC)",
       "KC_ENT",
       "MO(2)",
-      "KC_RALT"
+      "KC_RSFT"
     ],
     [
       "KC_TAB",
@@ -64,7 +64,7 @@
       "KC_0",
       "KC_BSPC",
       "KC_LCTL",
-      "KC_NO",
+      "RALT(KC_2)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
