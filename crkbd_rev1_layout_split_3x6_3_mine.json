@@ -87,12 +87,12 @@
       "RALT(KC_9)",
       "KC_NO",
       "KC_NO",
-      "KC_LGUI",
       "KC_TRNS",
-      "KC_SPC",
-      "KC_ENT",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
       "MO(3)",
-      "KC_RALT"
+      "KC_TRNS"
     ],
     [
       "KC_TAB",
@@ -131,12 +131,12 @@
       "KC_RCBR",
       "KC_PIPE",
       "KC_TILD",
-      "KC_LGUI",
-      "MO(3)",
-      "KC_SPC",
-      "KC_ENT",
       "KC_TRNS",
-      "KC_RALT"
+      "MO(3)",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
     ],
     [
       "QK_BOOT",
@@ -175,12 +175,12 @@
       "RGB_M_X",
       "RGB_M_G",
       "RGB_M_T",
-      "KC_LGUI",
       "KC_TRNS",
-      "KC_SPC",
-      "KC_ENT",
       "KC_TRNS",
-      "KC_RALT"
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
     ],
     [
       "KC_NO",
